@@ -1,0 +1,42 @@
+C:\Users\Angus\AppData\Local\Temporary Projects\Jedi Auto-key\bin\Debug\Jedi Auto-key.exe.config
+C:\Users\Angus\AppData\Local\Temporary Projects\Jedi Auto-key\bin\Debug\Jedi Auto-key.exe
+C:\Users\Angus\AppData\Local\Temporary Projects\Jedi Auto-key\bin\Debug\Jedi Auto-key.pdb
+C:\Users\Angus\AppData\Local\Temporary Projects\Jedi Auto-key\bin\Debug\Jedi Auto-key.xml
+C:\Users\Angus\AppData\Local\Temporary Projects\Jedi Auto-key\obj\Debug\Jedi Auto-key.vbprojResolveAssemblyReference.cache
+C:\Users\Angus\AppData\Local\Temporary Projects\Jedi Auto-key\obj\Debug\Jedi_Auto_key.bhop.resources
+C:\Users\Angus\AppData\Local\Temporary Projects\Jedi Auto-key\obj\Debug\Jedi_Auto_key.Form1.resources
+C:\Users\Angus\AppData\Local\Temporary Projects\Jedi Auto-key\obj\Debug\Jedi_Auto_key.Resources.resources
+C:\Users\Angus\AppData\Local\Temporary Projects\Jedi Auto-key\obj\Debug\Jedi Auto-key.vbproj.GenerateResource.Cache
+C:\Users\Angus\AppData\Local\Temporary Projects\Jedi Auto-key\obj\Debug\Jedi Auto-key.exe
+C:\Users\Angus\AppData\Local\Temporary Projects\Jedi Auto-key\obj\Debug\Jedi Auto-key.xml
+C:\Users\Angus\AppData\Local\Temporary Projects\Jedi Auto-key\obj\Debug\Jedi Auto-key.pdb
+C:\Users\Angus\AppData\Local\Temporary Projects\Jedi Auto-key\obj\Debug\Jedi_Auto_key.Custom.resources
+C:\Users\Angus\Documents\Visual Studio 2015\Projects\Jedi Auto-key\Jedi Auto-key\bin\Debug\Jedi Auto-key.exe.config
+C:\Users\Angus\Documents\Visual Studio 2015\Projects\Jedi Auto-key\Jedi Auto-key\obj\Debug\Jedi Auto-key.exe
+C:\Users\Angus\Documents\Visual Studio 2015\Projects\Jedi Auto-key\Jedi Auto-key\obj\Debug\Jedi Auto-key.xml
+C:\Users\Angus\Documents\Visual Studio 2015\Projects\Jedi Auto-key\Jedi Auto-key\obj\Debug\Jedi Auto-key.pdb
+C:\Users\Angus\Documents\Visual Studio 2015\Projects\Jedi Auto-key\Jedi Auto-key\bin\Debug\Jedi Auto-key.exe
+C:\Users\Angus\Documents\Visual Studio 2015\Projects\Jedi Auto-key\Jedi Auto-key\bin\Debug\Jedi Auto-key.pdb
+C:\Users\Angus\Documents\Visual Studio 2015\Projects\Jedi Auto-key\Jedi Auto-key\bin\Debug\Jedi Auto-key.xml
+C:\Users\Angus\Documents\Visual Studio 2015\Projects\Jedi Auto-key\Jedi Auto-key\obj\Debug\Jedi Auto-key.vbprojResolveAssemblyReference.cache
+C:\Users\Angus\Documents\Visual Studio 2015\Projects\Jedi Auto-key\Jedi Auto-key\obj\Debug\Jedi_Auto_key.bhop.resources
+C:\Users\Angus\Documents\Visual Studio 2015\Projects\Jedi Auto-key\Jedi Auto-key\obj\Debug\Jedi_Auto_key.Custom.resources
+C:\Users\Angus\Documents\Visual Studio 2015\Projects\Jedi Auto-key\Jedi Auto-key\obj\Debug\Jedi_Auto_key.Form1.resources
+C:\Users\Angus\Documents\Visual Studio 2015\Projects\Jedi Auto-key\Jedi Auto-key\obj\Debug\Jedi_Auto_key.Resources.resources
+C:\Users\Angus\Documents\Visual Studio 2015\Projects\Jedi Auto-key\Jedi Auto-key\obj\Debug\Jedi Auto-key.vbproj.GenerateResource.Cache
+C:\Users\Angus\Documents\Visual Studio 2015\Projects\Jedi Auto-key\Jedi Auto-key\obj\Debug\Jedi_Auto_key.info.resources
+F:\Jedi Auto-key\Jedi Auto-key\bin\Debug\Jedi Auto-key.exe.config
+F:\Jedi Auto-key\Jedi Auto-key\obj\Debug\Jedi Auto-key.exe
+F:\Jedi Auto-key\Jedi Auto-key\obj\Debug\Jedi Auto-key.xml
+F:\Jedi Auto-key\Jedi Auto-key\obj\Debug\Jedi Auto-key.pdb
+F:\Jedi Auto-key\Jedi Auto-key\bin\Debug\Jedi Auto-key.exe
+F:\Jedi Auto-key\Jedi Auto-key\bin\Debug\Jedi Auto-key.pdb
+F:\Jedi Auto-key\Jedi Auto-key\bin\Debug\Jedi Auto-key.xml
+F:\Jedi Auto-key\Jedi Auto-key\obj\Debug\Jedi_Auto_key.bhop.resources
+F:\Jedi Auto-key\Jedi Auto-key\obj\Debug\Jedi_Auto_key.Custom.resources
+F:\Jedi Auto-key\Jedi Auto-key\obj\Debug\Jedi_Auto_key.Form1.resources
+F:\Jedi Auto-key\Jedi Auto-key\obj\Debug\Jedi_Auto_key.info.resources
+F:\Jedi Auto-key\Jedi Auto-key\obj\Debug\Jedi_Auto_key.Resources.resources
+F:\Jedi Auto-key\Jedi Auto-key\obj\Debug\Jedi Auto-key.vbproj.GenerateResource.Cache
+F:\Jedi Auto-key\Jedi Auto-key\bin\Debug\Jedi Auto-key.exe.CodeAnalysisLog.xml
+F:\Jedi Auto-key\Jedi Auto-key\bin\Debug\Jedi Auto-key.exe.lastcodeanalysissucceeded
